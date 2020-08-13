@@ -1,0 +1,11 @@
+Token;Classe;Tamanho;Posição
+while;palavra reservada;5;(0, 0)
+i;[identificador,0];1;(0, 6)
+<;operador;1;(0, 8)
+1;número;1;(0, 10)
+100;[constante,1];3;(0, 10)
+do;palavra reservada;2;(0, 14)
+i;[identificador,0];1;(0, 17)
++;operador;1;(0, 19)
+j;[identificador,2];1;(0, 21)
+";";terminador;1;(0, 22)

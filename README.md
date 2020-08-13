@@ -9,7 +9,7 @@ O objetivo do código era servir como um analisador léxico para analisar um pro
 
 Ao concluir a análise o programa deve gerar duas saídas no formato CSV:
 
-* tabela de tokens
-* tabela de símbolos
+* tabela de tokens, apresentando o token, o tipo de característica de linguagem, o tamanho e a posição na linha de código
+* tabela de símbolos (identificadores e constantes), apresentando o índice e o símbolo
 
 Se ocorrer um erro de análise léxica durante a análise do programa-fonte, o analisador deve interromper o processo e informar a coluna em que o erro aconteceu.

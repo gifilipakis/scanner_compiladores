@@ -1,3 +1,4 @@
+# Scanner
 Código desenvolvido para uma atividade da matéria de Compiladores do Curso de Ciência da Computação do CEULP/ULBRA, sob orientação do professor Jackson Gomes (https://github.com/jacksongomesbr).
 O objetivo do código era servir como um analisador léxico para analisar um programa-fonte considerando as seguintes características da linguagem:
 * palavras reservadas: while, do
